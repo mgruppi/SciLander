@@ -1,2 +1,2 @@
-# scilander
+# SciLander
 Codebase for SciLander
