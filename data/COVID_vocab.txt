@@ -1,0 +1,230 @@
+abnormal respiratory findings
+actemra
+acute respiratory distress syndrome
+aerosol
+ageusia
+airborne precautions
+airborne transmission
+animal-to-human transmission
+anosmia
+antibodies
+antibody
+antibody test
+antigen test
+antipyretic therapy
+antiviral drug
+ARDS
+asymptomatic
+basic reproduction number
+betacoronavirus
+border
+border closure
+border screening
+bronchoalveolar lavage
+bubble
+caremongering
+case cluster
+case definition
+case-fatality rate
+chain of transmission of infection
+clinical presentation
+close contact
+cluster site
+cold zone
+communicable period
+community spread
+confirmed case
+contact follow-up
+contact identification
+contact listing
+contact precautions
+contact tracing
+contact tracing application
+contact transmission
+contagiousness
+convalescent plasma
+coronavirus
+COVID-19
+death rate
+deglobalization
+departure screening
+depression
+direct contact transmission
+disease control
+drive-through screening clinic
+droplet
+droplet nuclei
+droplet precautions
+droplet transmission
+drug repositioning
+dry cough
+early detection
+economic recovery
+economic stimulus plan
+effective reproduction number
+elbow bump
+entry screening
+epicentre
+epidemic
+epidemic curve
+epidemiological survey
+essential services
+essential workers
+expectoration
+face covering
+face shield
+false negative
+false positive
+first death
+fist bump
+flatten the curve
+fomite
+foot shake
+forehead thermometer
+front-line staff
+global impact
+global scale
+gloves
+gown
+hand hygiene
+hand sanitizer
+hand washing
+health care provider
+health care system capacity
+health care system saturation
+health care system saturation threshold
+health care worker
+health crisis
+health emergency
+health measures
+health screening
+health threat
+hemoptysis
+herd immunity
+host cell
+hot zone
+hydroxychloroquine
+hygiene measure
+hypoxemia
+immune system
+immunity certificate
+income support
+incubation
+incubation period
+index case
+indirect contact transmission
+infect
+infectious agent
+infectious disease
+infectivity
+intensive care
+intensive care beds
+intensive care unit
+isolation
+isolation gown
+laboratory confirmation
+laboratory-confirmed case
+lift the lockdown
+local transmission
+lockdown
+lock down
+lockdown lifting
+lockdown reinstatement
+locked down
+lung infiltrate
+mask
+mean incubation period
+median incubation period
+medical equipment
+medical supplies
+mode of transmission
+N95 respirator
+negative pressure room
+non-close contact
+non-essential travel
+nosocomial infection
+one-time special payment
+outbreak
+oxygen therapy
+pandemic
+pathogenicity
+patient zero
+pay disruption
+PCR test
+personal protective equipment
+person-to-person transmission
+physical barrier
+physical distance
+physical distancing
+plan for lifting the lockdown
+plank the curve
+portal of entry
+portal of exit
+PPE
+presymptomatic
+primary case
+probable case
+public health emergency
+public health risk
+quarantine
+R0
+rapid diagnostic test
+rapid test
+recession
+reinstate the lockdown
+remdesivir
+repositioned antiviral drug
+reservoir
+respirator
+respiratory failure
+respiratory hygiene
+respiratory tract infection
+screening clinic
+secondary case
+self-assessment tool
+self-isolate
+self-isolation
+self-monitoring
+serological test
+seroprevalence
+service interruption
+severe acute respiratory syndrome coronavirus
+shortage
+social distancing
+spanish flu
+spread
+superspreader
+superspreading
+surge capacity
+surge funding
+surgical mask
+susceptible host
+suspect case
+swab
+swabbing
+symptom
+symptomatic
+temperature check
+test negative
+test positive
+tocilizumab
+trace contacts
+transmission
+travel bubble
+travel restriction
+vector
+ventilator
+viral load
+viral shedding
+viral spread
+virulence
+virus-host interaction
+volatility
+voluntary quarantine
+vulnerable health care system
+warm zone
+wave
+WHO
+World Health Organization
+zoonosis
+zoonotic

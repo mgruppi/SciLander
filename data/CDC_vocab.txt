@@ -1,0 +1,788 @@
+Abdominal Aortic Aneurysm
+Aortic Aneurysm
+Acanthamoeba Infection
+ACE
+Adverse Childhood Experiences
+Acinetobacter Infection
+Acquired Immune Deficiency Syndrome
+AIDS
+HIV
+Acute Flaccid Myelitis
+AFM
+Adenovirus Infection
+Adenovirus Vaccination
+ADHD
+Attention Deficit/Hyperactivity Disorder
+Adult Vaccinations
+AFib
+AF
+Atrial fibrillation
+African Trypanosomiasis
+Sleeping Sickness
+Agricultural Safety
+Farm Worker Injuries
+AHF
+Alkhurma hemorrhagic fever
+ALS
+Amyotrophic Lateral Sclerosis
+Alzheimer's Disease
+Amebiasis, Intestinal
+Entamoeba histolytica infection
+American Indian and Alaska Native Vaccination
+American Trypanosomiasis
+Chagas Disease
+Anaplasmosis, Human
+Ancylostoma duodenale Infection
+Necator americanus Infection
+Human Hookworm
+Angiostrongylus Infection
+Animal-Related Diseases
+Anisakiasis
+Anisakis Infection
+Anthrax Vaccination
+Anthrax
+Bacillus anthracis Infection
+Antibiotic-resistant Infections
+Antibiotic and Antimicrobial Resistance
+Aortic Dissection
+Arenavirus Infections
+Arthritis
+Childhood Arthritis
+Fibromyalgia
+Gout
+Osteoarthritis
+OA
+Rheumatoid Arthritis
+RA
+Ascariasis
+Ascaris Infection
+Aseptic Meningitis
+Viral Meningitis
+Aspergillosis
+Aspergillus Infection
+Asthma
+Autism
+Genetics and Genomics
+Avian Influenza
+B. cepacia infection
+Burkholderia cepacia Infection
+Babesia Infection
+Babesiosis
+Bacillus anthracis
+Back Belts
+Ergonomic Disorder
+Musculoskeletal Disorder
+Bacterial Meningitis
+Meningitis
+Meningococcal Disease
+Bacterial Vaginosis
+BV
+Balamuthia Infection
+Balamuthia mandrillaris Infection
+Balantidiasis
+Balantidium Infection
+Bartonella bacilliformis Infection
+Bartonella henselae Infection
+Bartonella Infection
+Carrión's disease
+Cat Scratch Disease
+CSD
+Trench fever
+Bartonella Quintana Infection
+Baylisascaris Infection
+Raccoon Roundworm Infection
+BCG
+Tuberculosis Vaccine
+Bilharzia
+Schistosomiasis
+Bioterrorism Agents/Diseases
+Bird Flu
+Birth Defects
+Black Lung
+Coal Workers' Pneumoconioses
+Blastocystis hominis Infection
+Blastocystis Infection
+Blastomycosis
+Blastomyces dermatitidis Infection
+blood clot
+Blood Disorders
+Body Lice
+Pediculus humanus corporis
+Borrelia burgdorferi Infection
+Lyme Disease
+Borreliosis
+Louse-borne
+Relapsing Fever
+Tick-borne
+Botulism
+Clostridium botulinum Infection
+Bovine Spongiform Encephalopathy
+BSE
+Brainerd Diarrhea
+Breast Cancer
+NBCCEDP
+Breastfeeding
+Bronchiolitis
+Respiratory Syncytial Virus Infection
+Bronchitis
+Brucella Infection
+Brucellosis
+Mad Cow Disease
+Bunyavirus Infections
+Burkholderia mallei
+Glanders
+Burkholderia pseudomallei Infection
+Melioidosis
+B virus Infection
+Herpes B virus
+C. auris infection
+Candida auris infection
+C. diff. Infection
+Clostridium difficile Infection
+C. gattii cryptococcosis
+C. neoformans cryptococcosis
+Campy
+Campylobacter Infection
+Campylobacteriosis
+Cancer
+Colorectal
+Colon Cancer
+Gynecologic Cancers
+Lung Cancer
+Prostate Cancer
+Skin Cancer
+Influenza
+Canine Flu
+Capillaria Infection
+Capillariasis
+Carbapenem-resistant Enterobacteriaceae
+CRE
+Carbapenem resistant Klebsiella pneumonia 
+CRKP
+Klebsiella pneumoniae
+Cardiovascular Health
+Heart Disease
+Carpal Tunnel Syndrome
+Carrion's disease
+Cat Flea Tapeworm
+CCHF
+Crimean-Congo hemorrhagic fever
+CDI
+Chronic Disease Indicators
+Cercarial Dermatitis
+Swimmer's Itch
+Cerebral Palsy
+Cervical Cancer
+Trypanosoma cruzi Infection
+Chapare Hemorrhagic Fever
+CHHF
+Chest Cold
+Chickenpox
+Varicella Disease
+Chikungunya Fever
+CHIKV
+Childhood Injuries
+Childhood Overweight
+Childhood Obesity
+Cough Medicines
+Cold Medicines
+Chlamydia pneumoniae Infection
+Chlamydia psittaci Infection
+Psittacosis
+Chlamydia trachomatis Disease
+Chlamydia
+Cholera
+Vibrio cholerae Infection
+Chronic Disease Prevention
+Chronic Fatigue Syndrome
+Myalgic Encephalomyelitis
+Chronic Kidney Disease
+CKD
+Chronic Obstructive Pulmonary Disease
+COPD
+Chronic Traumatic Encephalopathy
+CTE
+Chronic Wasting Disease
+CWD
+Ciguatera Fish Poisoning
+Ciguatoxin
+Marine Toxins
+CJD
+Creutzfeldt-Jakob Disease
+Kidney Disease
+Clonorchiasis
+Clonorchis Infection
+Clostridium perfringens infection
+Clostridium tetani Infection
+Tetanus Disease
+Clotting Disorders
+CMV
+Cytomegalovirus Infection
+Coccidioidomycosis
+Valley Fever
+Cold
+Colorado Tick Fever
+CTF
+Colorectal Cancer Control Program
+CRCCP
+Colorectal Cancer and Genetics
+Concussion
+Traumatic Brain Injury
+Congenital Hearing Loss
+Hearing Loss
+Congenital Heart Defects
+Screening for Critical Congenital Heart Defects
+Conjunctivitis
+Pink Eye
+Cooley's Anemia
+Corynebacterium diphtheriae Infection
+Diphtheria
+Corynebacterium diphtheria Infection
+Coxiella burnetii Infection
+Q Fever
+Creutzfeldt-Jakob Disease
+Nairovirus Infection
+Crohn's Disease
+Inflammatory Bowel Disease
+Cronobacter Infection
+Cryptococcosis
+Cryptosporidiosis
+Cryptosporidium Infection
+TBI
+cyanobacterial algal bloom-associated illness
+Harmful Algal Bloom
+HAB-Associated Illness
+Cyclospora Infection
+Cyclosporiasis
+Cysticercosis
+Cystoisospora Infection
+Cystoisosporiasis
+Deep Vein Thrombosis
+DVT
+Dementia
+Dengue
+Dermatophyte Infection
+Ringworm
+Developmental Disabilities
+Diabetes
+Dientamoeba fragilis Infection
+Diet
+Nutrition
+Diphtheria Vaccination
+Diphyllobothriasis
+Diphyllobothrium Infection
+Dipylidium Infection
+Dirofilariasis
+Dog Heartworm
+Dog Bites
+Dog Flea Tapeworm
+Down Syndrome
+Trisomy 21
+Dracunculiasis
+Guinea Worm Disease
+Drug Resistance
+Dwarf Tapeworm
+Hymenolepis Infection
+E. coli Infection
+Escherichia coli Infection
+Ear Infection
+Otitis Media
+Early Hearing Detection and Intervention
+EHDI
+Eastern Equine Encephalitis
+Ebola Virus Disease
+EVD
+EBV Infection
+Epstein-Barr Virus Infection
+Echinococcosis
+Ehrlichiosis
+Elephantiasis
+Lymphatic Filariasis
+Elizabethkingia Infection
+Emerging Infectious Diseases
+Fungal Endophthalmitis
+Fungal Eye Infections
+Enteric Diseases
+Gastrointestinal Diseases
+Enterobius vermicularis Infection
+Pinworm Infection
+Enterovirus D68
+Enterovirus Infections
+Non-Polio
+Non-Polio Enterovirus Infections
+Epidemic Typhus
+Typhus Fevers
+Epilepsy
+Esophageal Candidiasis
+Thrush
+EV-D68
+Exserohilum rostratum
+Pathogenic Fungi
+Fungal diseases
+Mycotic diseases
+Extensively Drug-Resistant TB
+XDR TB
+Extreme Cold
+Hypothermia
+Extreme Heat
+Hyperthermia
+Fasciitis
+Necrotizing
+Strep Infection
+Fasciola Infection
+Fascioliasis
+Fasciolopsiasis
+Fasciolopsis Infection
+Fetal Alcohol Spectrum Disorders
+FETP
+Field Epidemiology Training Program
+Fifth Disease
+Parvovirus B19 Infection
+Filariasis
+Lymphatic
+Filovirus Infections
+Flavivirus Infections
+Lung Disease
+Flea-borne
+Murine Typhus
+Flu
+Pandemic Flu
+Seasonal Flu
+Flu Vaccination
+Influenza Vaccination
+Folliculitis
+Hot Tub Rash
+Foodborne Illnesses
+Fragile X Syndrome
+FXS
+Francisella tularensis Infection
+Tularemia
+Mold
+Fungal Meningitis
+Fungal Pneumonia
+GAE
+Acanthamoeba
+Granulomatous Amebic Encephalitis
+GAS
+Zoonotic enteric diseases
+GBS
+Group B Strep Infection
+GDDER
+Global Disease Detection and Emergency Response
+Genetics
+Genital Candidiasis
+VVC
+Vulvovaginal Candidiasis
+Genital Herpes
+Herpes Simplex Virus Infection
+Genital Warts
+Human Papillomavirus Infection
+German Measles
+Rubella Virus
+Giardia Infection
+Giardiasis
+Global Health
+Global Measles Elimination
+Immunization
+Measles
+Measles Vaccination
+Gnathostoma Infection
+Gnathostomiasis
+Gonorrhea
+Neisseria gonorrhoeae Infection
+Streptococcal Infection
+Guillain-Barré Syndrome
+Ovarian Cancer
+Uterine Cancer
+Vaginal and Vulvar Cancers
+H3N2v influenza
+H5N1
+HAB
+Haemophilus influenzae Serotype b
+Hib Infection
+HFMD
+Hansen's Disease
+Hantavirus Pulmonary Syndrome
+HPS
+Head Lice
+Pediculus humanus capitis
+Hearing impairment
+Hearing loss
+Heartland Virus Infection
+Heat Stress
+Hemoglobinopathies
+Hemophilia
+Hemophilia Treatment Centers
+HTC
+Hemorrhagic Fevers
+Hendra Virus Disease
+HeV Infection
+Hepatitis
+Hepatitis A Vaccination
+Hepatitis B Vaccination
+Hereditary Bleeding Disorders
+Genital Herpes
+Herpesvirus B
+Herpesvirus simiae
+Herpes Zoster
+Shingles
+Herpes Zoster Vaccination
+Shingles Vaccination
+Heterophyes Infection
+Heterophyiasis
+Hib Vaccine
+Haemophilus influenzae Serotype b Vaccination
+High Blood Pressure
+Histoplasma capsulatum Infection
+Histoplasmosis
+Hookworm
+Zoonotic Hookworm
+Pseudomonas dermatitis Infection
+HPIV
+Human Parainfluenza Viruses
+HPV-Associated Cancers
+HPV Infection
+HPV Vaccination
+Human Papillomavirus Vaccination
+Human Ehrlichiosis
+Human Immunodeficiency Virus
+Hypertension
+IBD
+IMMPaCt
+International Micronutrient Malnutrition Prevention and Control Program
+Micronutrient Malnutrition
+Impetigo
+Infectious Mononucleosis
+Infertility
+H1N1 Flu
+Swine Influenza
+Injury
+International Micronutrient Malnutrition Prevention & Control Program
+Intestinal Amebae Infection
+Nonpathogenic
+Harmless Intestinal Protozoa
+Invasive Candidiasis
+Isospora Infection
+Jamestown Canyon Virus Infection
+Japanese Encephalitis
+JE Vaccination
+Jaundice
+Newborn Jaundice
+Japanese Encephalitis Vaccination
+K. pneumoniae
+Kala-Azar
+Leishmania Infection
+Kawasaki Disease
+KD
+Kawasaki Syndrome
+Keratitis
+Acanthamoeba
+Kernicterus
+KFD
+Kyasanur Forest disease
+LAC
+La Crosse Encephalitis
+La Crosse Encephalitis virus
+LACV
+Lassa Fever
+Latex Allergies
+LBRF
+LCM
+Lymphocytic Choriomeningitis
+Lead Poisoning
+Legionellosis
+Legionnaires' Disease
+Leishmaniasis
+Leprosy
+Leptospira Infection
+Leptospirosis
+Lice
+Listeria Infection
+Listeriosis
+Liver Disease
+Loa loa Infection
+Loiasis
+Lockjaw
+Lockjaw Vaccination
+Tetanus
+Lou Gehrig's Disease
+LUHF
+Lujo Hemorrhagic Fever
+Lupus
+SLE
+Systemic lupus erythematosus
+Lymphedema
+MAC
+Mycobacterium avium Complex
+Malaria
+Marburg Hemorrhagic Fever
+MD
+Muscular Dystrophy
+MDR TB
+Multidrug-Resistant TB
+ME/CFS
+Meningococcal Vaccination
+Mental Health
+Mental Retardation
+MERS-CoV
+Middle East Respiratory Syndrome Coronavirus
+Methicillin Resistant Staphylococcus aureus
+MRSA
+microalgal bloom-associated illness
+Microcephaly
+Zika Virus Infection
+Zika Virus Infection and Pregnancy
+Microsporidia Infection
+Coronavirus
+CoV
+MMR Vaccination
+Molluscum Contagiosum
+Monkey B virus
+Monkeypox
+Mononucleosis
+Motor Vehicle Injuries
+Mouse and Rat Control
+Mucormycosis
+Mucus
+Multiple organ dysfunction syndrome
+Sepsis
+Mumps
+Mumps Vaccination
+Murine
+Flea-borne Typhus
+Musculoskeletal Disorders
+Mycobacterium abscessus Infection
+Mycobacterium tuberculosis Infection
+Tuberculosis
+Mycoplasma pneumoniae Infection
+Myelomeningocele
+Spina Bifida
+Myiasis
+Naegleria Infection
+Primary Amebic Meningoencephalitis
+PAM
+National Amyotrophic Lateral Sclerosis
+ALS Registry
+Necrotizing Fasciitis
+Neglected Tropical Diseases
+NTD
+Neurocysticercosis
+Newborn Hearing
+Nocardia asteroides Infection
+Nocardiosis
+noise exposure
+Norovirus Infection
+Norwalk-like Viruses
+NLV
+Novel Coronavirus
+2019-nCoV
+Occupational Cancers
+Occupational Skin Conditions
+Occupational Stress
+OHF
+Omsk hemorrhagic fever
+Onchocerciasis
+River Blindness
+Opisthorchis Infection
+Oral Cancer
+Orf Virus Infection
+Sore Mouth Infection
+Oropharyngeal Candidiasis
+Outbreaks
+Ovarian and Breast Cancer and Family Health History
+Overweight and Obesity
+PAD
+Peripheral Arterial Disease
+Paragonimiasis
+Paragonimus Infection
+Parainfluenza
+Parasitic Diseases
+PCP
+Pneumocystis pneumonia
+PCV
+Pneumococcal Conjugate Vaccine
+PE
+Pulmonary Embolism
+Pedestrian Injury
+Pelvic Inflammatory Disease
+PID
+Peripheral Arterial Insufficiency
+Peripheral Arterial Occlusive Disease
+Peripheral Vascular Disease
+Pertussis
+Whooping Cough
+Whooping Cough Vaccination
+Pet-Related Diseases
+Phthiriasis
+Plague
+Yersinia pestis Infection
+Pneumococcal Disease
+Pneumococcal Polysaccharide Vaccine
+PPV
+Pneumoconioses
+Pneumocystis carinii Pneumonia
+PCP Infection
+Pneumocystis jirovecii pneumonia
+previously Pneumocystis carinii
+Pneumonia
+Polio Infection
+Poliomyelitis Infection
+Poliomyelitis Vaccination
+Polio Vaccination
+Pontiac Fever
+Powassan
+POW virus
+Poxvirus Infections
+Pregnancy
+Prion Diseases
+TSEs
+Transmissible spongiform encephalopathies
+Pseudomonas aeruginosa Infection
+Psoriasis
+Pulmonary Hypertension
+Rabies
+Rabies Vaccination
+Rat-Bite Fever
+RBF
+Streptobacillus moniliformis Infection
+Recalled Vaccines
+Recreational Water Illnesses
+RWI
+TBRF
+RSV
+Spotted Fever Group Rickettsia
+Rickettsial Diseases
+Rickettsia rickettsii Infection
+Rocky Mountain Spotted Fever
+Rift Valley Fever
+RVF
+Ringworm from Animals
+RMSF
+Rodent Control
+Rodents
+Rotavirus Infection
+Rotavirus Vaccination
+Rubella
+German Measles Vaccination
+Rubeola
+Runny Nose
+Salmonella Infection from Animals
+Salmonella Infection
+Salmonellosis
+Salmonella typhi infection
+Typhoid Fever
+Sappinia diploidea and Sappinia pedata
+Sappinia Infection
+SARS
+Severe Acute Respiratory Syndrome
+Scabies
+Scarlet Fever
+Schistosoma Infection
+Scrub Typhus
+Seizure disorder
+Septicemia
+Septic shock
+Sexually Transmitted Diseases
+STDs
+Syphilis
+Treponema pallidum Infection
+Trichomoniasis
+Trichomonas Infection
+SFGR
+Shiga toxin-producing E. coli
+STEC
+Shigella Infection
+Shigellosis
+Varicella Zoster Virus
+VZV
+Sickle Cell Disease
+SIDS
+Sudden Infant Death Syndrome
+Sinus Infection
+Sinusitus
+Sleep Disorders
+Smallpox
+Soil Transmitted Helminths
+Sore Throat
+Southern Tick-Associated Rash Illness
+STARI
+Spirillum minus Infection
+Sporothrix schenckii infection
+Sporotrichosis
+Staph
+Staphylococcus aureus Infection
+Strep Infection
+Strep Throat
+Streptococcus pneumoniae Infection
+Stroke
+Strongyloidiasis
+Taenia Infection
+Tapeworm Infection
+Tuberculosis Vaccination
+Testicular Cancer
+Lockjaw Infection
+Thalassemia
+Thoracic Aortic Aneurysm
+Thrombophilia
+Thrombosis
+Tickborne Diseases
+Ticks
+Tinea
+Tourette Syndrome
+TS
+Toxocara Infection
+Toxocariasis
+Toxoplasma Infection
+Toxoplasmosis
+Trachoma Infection
+Traumatic Occupational Injuries
+Trench Fever
+Trichinellosis
+Trichinosis
+Trichuriasis
+Whipworm Infection
+Trypanosomiasis, African
+TB Vaccination
+Tuberculosis and HIV Coinfection
+Tuberculosis Skin Test
+Tuberculosis Training
+Typhoid Fever Vaccination
+Ulcerative Colitis
+Undulant Fever
+Unexplained Respiratory Disease Outbreaks
+URDO
+Universal Newborn Hearing Screening
+Upper Respiratory Infection Symptom Relief
+Vaccination, American Indian and Alaska Native
+Vaginal Candidiasis
+Vancomycin-Intermediate/Resistant Staphylococcus aureus Infections
+VISA/VRSA
+Vancomycin-resistant Enterococci Infection
+VRE
+Variant Creutzfeldt-Jakob Disease
+vCJD
+Varicella-Zoster Virus Infection
+Varicella Vaccination
+Variola Major Virus Infection
+Variola Minor Virus Infection
+Vector-borne Diseases
+VHF
+Vibrio Illness
+Vibriosis
+Vision Impairment
+Von Willebrand Disease
+VWD
+Water-related Topics
+West Nile Virus Infection
+WNV Infection
+Whitmore's Disease
+Pertussis Vaccination
+Women's Bleeding Disorders
+Yeast Infection
+Yellow Fever
+Yellow Fever Vaccination
+Yersinia enterocolitica Infection
+Yersiniosis
+Zoonotic Diseases from Animals
+Zoster
+Zygomycosis
